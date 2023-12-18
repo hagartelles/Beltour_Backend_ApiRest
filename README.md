@@ -36,13 +36,3 @@ A API inclui documentação Swagger para facilitar os testes e compreensão dos 
 ## Contribuição
 
 Sinta-se à vontade para contribuir! Abra problemas, sugira melhorias e envie pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [Sua Licença].
-
----
-
-Substitua `[Sua Licença]` pela licença específica que você deseja usar (por exemplo, MIT, Apache 2.0, etc.).
-
-Certifique-se de incluir informações mais detalhadas, se necessário, e ajuste conforme a necessidade do seu projeto.
